@@ -23,19 +23,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/queerviolet/bones.git"
+    "url": "git+https://github.com/cleverettgirl/riddikulus-shopper.git"
   },
   "keywords": [
     "react",
     "redux",
     "skeleton"
   ],
-  "author": "Ashi Krishnan <me@ashi.works>",
+  "author": "Christine Leverett <cleverett1@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/queerviolet/bones/issues"
+    "url": "https://github.com/cleverettgirl/riddikulus-shopper"
   },
-  "homepage": "https://github.com/queerviolet/bones#readme",
+  "homepage": "https://github.com/cleverettgirl/riddikulus-shopper#readme",
   "dependencies": {
     "axios": "^0.15.2",
     "babel-preset-stage-2": "^6.18.0",
