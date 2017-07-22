@@ -6,8 +6,8 @@ Testing done with Mocha, Chai and Enzyme.
 
 
 ## Checkout the live site!
-
-Go to: riddikulus.herokuapp.com
+Go to: [riddikulus.herokuapp.com](http://riddikulus.herokuapp.com/)
+![GitHub Logo](/screenshot.png)
 
 ## Built By
 Jin, Christine and Aly at Grace Hopper
